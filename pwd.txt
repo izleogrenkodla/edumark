@@ -1,0 +1,12 @@
+DataBase Login
+
+
+Database: alaknand_education_blog
+DB-User: alaknand_edu-blog
+Password: 5eQHPD.hbJx+
+
+
+wp-config.login
+
+username: admin
+password: 8!&R&Ex)i6P&Qep%P)
